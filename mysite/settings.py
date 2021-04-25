@@ -25,7 +25,7 @@ SECRET_KEY = '$_wdb2=&#0vr_bo3kr!qis&89jip^ge*s#%n-vyq&_cd-6q%r#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.pythonanywhere.com']
 
 
 # Application definition
